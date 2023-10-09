@@ -1,0 +1,9 @@
+/* ================================================================
+STILI CSS GENERICI
+================================================================ */
+
+.main-section-bg{
+    background-image: url(../img/main-background-image.jpg);
+    background-size: cover;
+    height: calc(100vh - 56px);
+}
